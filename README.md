@@ -2,7 +2,7 @@
 <h3 align="center">💻 A curious and passionate Computer Science graduate with a strong interest in AI, software development, and technology trends.</h3>
 
 <div style="text-align: center;">
-  <img src="video.mp4" style="margin-left: auto; margin-right: auto; width: 50%;">
+  <img src="photo_2025-10-06_23-57-43.jpg" style="margin-left: auto; margin-right: auto; width: 50%;">
 </div>
 
 ✨Experienced in Python and Java, with a knack for problem-solving and creative solutions.
