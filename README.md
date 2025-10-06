@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm MARAM </h1>
 <h3 align="center">💻 A curious and passionate Computer Science graduate with a strong interest in AI, software development, and technology trends.</h3>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .centered-img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+    }
+  </style>
+</head>
+<body>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="photo_2025-10-06_23-57-43.jpg" style="width: 30%;">
-</div>
+  <img src="photo_2025-10-06_23-57-43.jpg" class="centered-img">
+
+</body>
+</html>
 
 ✨Experienced in Python and Java, with a knack for problem-solving and creative solutions.
 
