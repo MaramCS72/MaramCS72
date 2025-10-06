@@ -2,7 +2,7 @@
 <h3 align="center">💻 A curious and passionate Computer Science graduate with a strong interest in AI, software development, and technology trends.</h3>
 
 <div style="text-align: center;">
-  <img src="47389e8e-23f0-486b-ab88-46ca010cbf3d.jpg" style="margin-left: auto; margin-right: auto; width: 50%;">
+  <img src="video.mp4" style="margin-left: auto; margin-right: auto; width: 50%;">
 </div>
 
 ✨Experienced in Python and Java, with a knack for problem-solving and creative solutions.
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/7s_am2?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nennei_cs?s=21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/naseem-aljabri-72a941258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maram-alzahrani-649025267" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maram-alzahrani-649025267?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maram-alzahrani-649025267" height="30" width="40" /></a>
 </p>
 
 
